@@ -1,0 +1,7 @@
+What is the description of the project?
+What are the problems that you want to resolve?
+How can this project help the users to resolve the problems?
+What are the scope and limitations of the project?
+How do you differentiate the proposed project to the existing systems?
+What are the processes needed for the web development and quality assurance?
+What are the functions needed to be implemented in the project?
